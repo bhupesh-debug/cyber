@@ -1,0 +1,32 @@
+{
+  "place_id": 318892361,
+  "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 633743208,
+  "lat": "33.4426340",
+  "lon": "-112.0421349",
+  "class": "amenity",
+  "type": "parking",
+  "place_rank": 30,
+  "importance": 7.330205233839959e-05,
+  "addresstype": "amenity",
+  "name": "",
+  "display_name": "East Sky Harbor Circle North, Central City, Phoenix, Maricopa County, Arizona, 85034, United States",
+  "address": {
+    "road": "East Sky Harbor Circle North",
+    "suburb": "Central City",
+    "city": "Phoenix",
+    "county": "Maricopa County",
+    "state": "Arizona",
+    "ISO3166-2-lvl4": "US-AZ",
+    "postcode": "85034",
+    "country": "United States",
+    "country_code": "us"
+  },
+  "boundingbox": [
+    "33.4412977",
+    "33.4440914",
+    "-112.0425189",
+    "-112.0404803"
+  ]
+}

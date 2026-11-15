@@ -1,0 +1,13 @@
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating System temporary files
+Thumbs.db
+.DS_Store
+*.tmp
